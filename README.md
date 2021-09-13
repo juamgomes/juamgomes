@@ -1,7 +1,6 @@
 ### Muito prazer, sou Juan Gomes!👋
 
 - 📚 Estudante de engenharia da computação
-- ♥ Apaixonado por programação 
 - 🎒 Ferramentas principais: Visual Studio Code e GitHub
 
 <div>
