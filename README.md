@@ -14,7 +14,8 @@
   <img align="center" alt="Juan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juan-C++" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+  <img align="center" alt="Juan-Vue" height="30" width="40" src="file:///C:/Users/Juan/Downloads/vue-js-1.svg">
+  <img align="center" alt="Juan-React" height="30" width="40" src="file:///C:/Users/Juan/Downloads/react-2.svg">
  </div> 
   
   ##
